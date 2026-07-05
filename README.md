@@ -8,6 +8,11 @@ This portfolio-ready Excel workbook demonstrates a complete business intelligenc
 - README.md
 - data/raw_sales_data.csv
 - data/cleaned_sales_data.csv
+- data/cleaned_sales_data_central.csv
+- data/cleaned_sales_data_east.csv
+- data/cleaned_sales_data_north.csv
+- data/cleaned_sales_data_south.csv
+- data/cleaned_sales_data_west.csv
 - docs/project-report.pdf
 
 ## Included sheets
@@ -19,6 +24,10 @@ This portfolio-ready Excel workbook demonstrates a complete business intelligenc
 - Data Dictionary: field descriptions
 - Insights: business findings and recommendations
 - Documentation: project notes and usage guidance
+
+## Data layout
+- The workbook uses a trimmed 1,500-row sample to keep the project lightweight.
+- The clean dataset is also split into region-specific CSVs for easier handling outside Excel.
 
 ## Skills demonstrated
 - Data cleaning and validation
